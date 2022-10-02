@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+.aside {
+    border: 1px dashed black;
+    padding: 20px;
+}
+.main {
+    border: 1px solid black;
+    padding: 20px;
+
+}

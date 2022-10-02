@@ -1,0 +1,20 @@
+div {
+    background-color: red;
+}
+.green {
+    background-color: green;
+    width: 30%;
+}
+.red1{
+    margin-right: 30%;
+}
+.red2{
+    margin-left: 30%;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+

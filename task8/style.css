@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    color: white;
+    font-size: 22px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+}
+.black{
+    background-color: black;
+    position: relative;
+    top: -100px;
+    left: 0;
+}
+.blue{
+    background-color: blue;
+    position: relative;
+    left: 100px;
+}
+.red{
+    background-color: red;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.green{
+    background-color: green;
+}

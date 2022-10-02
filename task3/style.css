@@ -1,0 +1,31 @@
+.red {
+    float: left;
+    width: 30%;
+}
+
+.green {
+    margin-left: 30%;
+}
+
+.black {
+    margin-right: 30%;
+}
+
+.blue {
+    width: 30%;
+    float: right;
+}
+
+.canyon {
+    float: left;
+    width: 30%;
+}
+
+.pink {
+    width: 30%;
+    float: right;
+}
+
+.yellow {
+    margin: 0 30%;
+}
